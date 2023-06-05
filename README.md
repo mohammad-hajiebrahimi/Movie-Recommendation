@@ -1,2 +1,2 @@
-# Movie-Recommendtion
-Movie Recommendtion engine
+# Movie-Recommendation
+Movie Recommendation engine
